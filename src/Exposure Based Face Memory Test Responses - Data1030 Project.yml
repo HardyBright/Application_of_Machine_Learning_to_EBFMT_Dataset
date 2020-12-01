@@ -1,0 +1,12 @@
+name: Exposure_Based_Face_Memory_Test_Responses_-_Data1030_Project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7.3
+  - matplotlib=3.2.2
+  - pandas=1.0.5
+  - scikit-learn=0.23.1
+  - numpy=1.18.5
+  - py-xgboost=1.1.1
+  - shap=0.35.0
