@@ -14,4 +14,4 @@ pandas version 1.0.5.
 xgboost version 1.1.1.
 shap version 0.35.0.
 
-a .yml file (Exposure Based Face Memory Test Responses - Data1030 Project.yml) has been included in the src directory.
+A .yml file (Exposure Based Face Memory Test Responses - Data1030 Project.yml) has been included in the src directory.
